@@ -7,9 +7,9 @@ Ce projet est une démonstration de l'utilisation de la base de données LokiJS 
 
 Assurez-vous d'avoir les dépendances suivantes installées avant de procéder à l'installation :
 
-Node.js : Environnement d'exécution JavaScript
-npm : Gestionnaire de packages pour Node.js
-LokiJS : https://db-engines.com/en/system/LokiJS
+- Node.js : Environnement d'exécution JavaScript
+- npm : Gestionnaire de packages pour Node.js
+- LokiJS : https://db-engines.com/en/system/LokiJS
 
 
 # Installation
