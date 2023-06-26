@@ -45,6 +45,7 @@ Vous pouvez personnaliser le code dans index.js pour ajouter des fonctionnalité
 Exécuter la commande `npm install` pour installer les dépendances.
 Se rendre dans le dossier src : 
 - "cd src".
-Exécuter la commande `node db.js` pour lancer le projet.
+- Exécuter la commande 
+`node db.js` pour lancer le projet.
 
 
