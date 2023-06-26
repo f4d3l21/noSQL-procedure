@@ -1,5 +1,5 @@
 
-# Project Title
+# Projet NoSQL - LokiJS
 
 Ce projet est une démonstration de l'utilisation de la base de données LokiJS pour gérer les informations des écoles. Il permet d'effectuer des opérations CRUD (Create, Read, Update, Delete) telles que l'insertion, la récupération, l'update et la suppression des écoles dans la base de données. Il utilise un fichier CSV contenant les données des écoles comme source de données initiale.
 
